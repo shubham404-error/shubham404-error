@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shubhamtejani29](https://medium.com/@shubhamtejani29)
 
-- 💬 Ask me about **python,mysql,machine learning,ensemble learning,computer vision.**
+- 💬 Ask me about **Python (NumPy, Pandas), SQL, Machine Learning, PowerBI , Flask, Docker**
 
 - 📫 How to reach me **shubhamtejani9@gmail.com**
 
